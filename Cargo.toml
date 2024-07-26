@@ -1,0 +1,8 @@
+[package]
+name = "rs-quick-dev"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+binrw = "0.14.0"
+num = "0.4.3"
